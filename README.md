@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abolfazl Vaysi , I'm Full Stack developer I fell in love Frontend and Looking For Bigger Challenges
+- 👋 Hi, I’m Abolfazl Vaysi , I'm Full Stack developer but i'm in love Frontend and Looking For Bigger Challenges
 - 👀 I’m interested in Frontend & Backend Techs
 - 🌱 I’m currently learning Dapp ( not rapidly )
 - 📫 You Can Reach Me By <a href="mailto:vaysi.erfan@gmail.com">Vaysi.erfan@gmail.com</a> or <a href="tel:+989361270387">+989361270387</a>
